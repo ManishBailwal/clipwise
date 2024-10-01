@@ -163,4 +163,8 @@
       align-items: center;
       margin-bottom:5px;
     }
+
+    .content {
+      width: 400px;
+    }
   }
